@@ -1,2 +1,4 @@
 # minimal.json
-fasffasf
+"enabled": true,
+"steamlogin": null,
+"steampassword": null,
